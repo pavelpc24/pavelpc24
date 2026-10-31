@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Pavel 👋
+
+- 🛠️ Working on: Embedded Systems, Custom RISC-V Architectures (FPGA) & Hardware Prototyping
+- ⚡ Low-level stack: Bare-metal C, Rust, Verilog, Assembly (ARM/RISC-V)
+- 🔬 Focus: Hardware-software co-design, sensor optimization & ultra-low power systems
+- 🎓 Student at Technical University of Moldova (UTM)
+
+### Tech Stack
+`C` `Rust` `Verilog` `FPGA` `Linux` `KiCad` `ARM Cortex-M` `Git`
 
 <!--
 **pavelpc24/pavelpc24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
